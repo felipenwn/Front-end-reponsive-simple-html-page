@@ -16,7 +16,7 @@ this is my first week studying html and css and consequently this was my first c
 
 ### Screenshot
 
-![Image.jpg](/Result/desktop.jpg?raw=true "Design-DesktopVersion")
+![Image.jpg](/Result/desktop.jpg? "Design-DesktopVersion")
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
 
