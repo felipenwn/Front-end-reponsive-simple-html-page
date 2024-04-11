@@ -1,0 +1,109 @@
+body {
+    font-family: "outfit", sans-serif;
+    max-width: 1440px;
+    background-color: hsl(30, 54%, 90%);
+    background-size: 120% 120%;
+    color: hsl(24, 5%, 18%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 125px 0;
+}
+
+.home {
+
+    gap: 50px;
+    text-align: justify;
+    background-color: hsl(0, 0%, 100%);
+    padding: 42px 50px;
+    border-radius: 2cap;
+    height: 1700px;
+    width: 740px;
+
+}
+
+img {
+    border-radius: 1cap;
+}
+
+.preparation {
+    background-color: hsl(330, 100%, 98%);
+    padding: 1px 50px;
+    border-radius: 1cap;
+
+}
+
+.preparation ul {
+    list-style-type: disc;
+    padding: 0 0px;
+}
+
+.ingredients ul {
+    list-style-type: disc;
+}
+
+.nutrition .tabela {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 50px;
+}
+
+li {
+    padding-left: 15px;
+}
+
+.lista {
+    line-height: 2.0;
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+
+.listaord {
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+ol li::marker{
+    display: block;
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+}
+ul li::marker {
+    display: block;
+    color: hsl(14, 45%, 36%);
+    font-weight: bold;
+    font-size:80% ;
+}
+
+.tabela strong{
+    color:hsl(14, 45%, 36%) ;
+}
+
+.line {
+    border-bottom: 1px solid hsl(30, 10%, 34%);
+    opacity: 20%;
+}
+
+h1 {
+    font-family: "Young Serif", serif;
+    font-weight: 400;
+}
+
+h2 {
+    font-family: "Young Serif", serif;
+    ;
+    color: hsl(14, 45%, 36%);
+    font-weight: 400;
+}
+
+h3 {
+    color: hsl(332, 51%, 32%);
+    margin-left: -20px;
+}
+
+p {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+.attribution{
+padding-top: 35px;
+}
